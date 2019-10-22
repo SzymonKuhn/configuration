@@ -1,6 +1,4 @@
-server:
-  port: 8061
-eureka:
+gieureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
