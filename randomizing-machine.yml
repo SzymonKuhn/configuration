@@ -1,3 +1,7 @@
 random:
   words: Hello,world,this,is,my,random,dictionary,and,some,other
   numbers: 7,33,22,11,99,88,55,443,23
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8010/eureka/
